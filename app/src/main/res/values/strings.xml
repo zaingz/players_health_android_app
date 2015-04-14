@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lollipop</string>
+    <string name="hello_world">Hello Zain!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reading">Reading</string>
+    <string name="json">[{"id":1,"name":"Jack Thomas","age":18,"url":"https://player-data.herokuapp.com/players/1.json"},{"id":2,"name":"Danial Rich","age":21,"url":"https://player-data.herokuapp.com/players/2.json"},{"id":3,"name":"Kamran Micheal","age":20,"url":"https://player-data.herokuapp.com/players/3.json"},{"id":4,"name":"Richard Flip","age":22,"url":"https://player-data.herokuapp.com/players/4.json"}]</string>
+    <color name="primary">@android:color/holo_green_light</color>
+    <color name="pressed">@android:color/holo_purple</color>
+    <color name="ripple">@android:color/holo_red_dark</color>
+</resources>
